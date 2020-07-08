@@ -1,8 +1,11 @@
+"""
+put LinkedIn password and username here
+"""
 search_keys = { 
-    "username"         :  "agathyrsi1024@gmail.com",
-    "password"         :  "friendship101",
-    "keywords"         :  ["Data Scientist", "Computer science"],
-    "locations"        :  ["greater seattle area"],
+    "username"         :  "",
+    "password"         :  "",
+    "keywords"         :  ["", ""],
+    "locations"        :  [""],
 
     # specify the search radius from 'location' in miles:
     #    '10', '25', '35', '50', '75', '100'
