@@ -3,6 +3,6 @@ Scrapes LinkedIn job applications and returns a list with info plus job keywords
 
 due to LinkedIn changing format I cannot guarantee that this will work 
 
-should this happen you just need to change the ccs and xaml tags in the code
+should this happen you just need to change the ccs and xpath strings in the code
 
 The txt is an example cover letter
