@@ -1,14 +1,13 @@
-24848 SE Mirromont Way
-Issaquah, Washington 98027
+
 07/07/2020
-agathyrsi1024@gmail.com
+
 
 Algorithmia
 Seattle, WA, US
 
 Dear Anne Marie M,
 
-I would like to introduce myself as a WSU Computer Science major graduating in December with an emphasis on Data Science. I am excited to be applying for the Applied Machine Learning Engineer position at Algorithmia which I found on LinkedIn. As someone who is highly focused and attentive to detail, I thrive on building quality systems that surpass end-users' expectations. I am thrilled at the opportunity to show off my technical expertise and leadership skills as part of Algorithmia's expert team. 
+I would like to introduce myself as a Computer Science major  with an emphasis on Data Science. I am excited to be applying for the Applied Machine Learning Engineer position at Algorithmia which I found on LinkedIn. As someone who is highly focused and attentive to detail, I thrive on building quality systems that surpass end-users' expectations. I am thrilled at the opportunity to show off my technical expertise and leadership skills as part of Algorithmia's expert team. 
 
 After completing the intro programming classes I applied those skills to produce games in Java. After several projects, I gained proficiency in setting project milestones, searching for solutions and user design. I also learned the importance of perseverance and resolving problems.
 
@@ -20,4 +19,3 @@ Thank you for your time and consideration. I am looking forward to learning more
 
 Sincerely,
 
-Gordon Duncan
