@@ -1,0 +1,23 @@
+24848 SE Mirromont Way
+Issaquah, Washington 98027
+07/07/2020
+agathyrsi1024@gmail.com
+
+Algorithmia
+Seattle, WA, US
+
+Dear Anne Marie M,
+
+I would like to introduce myself as a WSU Computer Science major graduating in December with an emphasis on Data Science. I am excited to be applying for the Applied Machine Learning Engineer position at Algorithmia which I found on LinkedIn. As someone who is highly focused and attentive to detail, I thrive on building quality systems that surpass end-users' expectations. I am thrilled at the opportunity to show off my technical expertise and leadership skills as part of Algorithmia's expert team. 
+
+After completing the intro programming classes I applied those skills to produce games in Java. After several projects, I gained proficiency in setting project milestones, searching for solutions and user design. I also learned the importance of perseverance and resolving problems.
+
+Using WEKA and loan data provided by Kaggle I predicted the rating an individual got for a loan based on features like amount, income, homeownership. I tested several models like Multilayer Perceptron and J48 decision trees and ultimately got the accuracy to 98.8% on the testing set.
+
+Using spaCy and Python I pulled names from text. I started using the preloaded training model but found it insufficient for my work. I then added more training data and fiddled with the learning rates to get a more accurate result. 
+
+Thank you for your time and consideration. I am looking forward to learning more details about the Applied Machine Learning Engineer position at Algorithmia. As we move further through the hiring process I am eager to demonstrate my commitment to developing world-class software solutions for Algorithmia. 
+
+Sincerely,
+
+Gordon Duncan
